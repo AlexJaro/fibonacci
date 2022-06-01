@@ -1,6 +1,6 @@
 # fibonacci
 A C++ program that can load up to 1000 fibonacci numbers without fail. Can be called at any time through your cli, fast and responsive for those who need a special program that calculates the fibonacci sequence for some reason.
 
-<img src="https://i.ibb.co/DGGJk5z/ezgif-com-gif-maker.gif" width="50%" height="50%">
+![le giffy](https://i.ibb.co/DGGJk5z/ezgif-com-gif-maker.gif)
 
 https://www.buymeacoffee.com/AlexPav
