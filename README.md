@@ -3,4 +3,5 @@ A C++ program that can load up to 1000 fibonacci numbers without fail. Can be ca
 
 ![le giffy](https://i.ibb.co/DGGJk5z/ezgif-com-gif-maker.gif)
 
-https://www.buymeacoffee.com/AlexPav
+![monero](https://ibb.co/9VPKqGx)
+monero donations
